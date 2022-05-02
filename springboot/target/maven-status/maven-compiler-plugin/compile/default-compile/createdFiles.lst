@@ -1,0 +1,7 @@
+com\jspiders\springboot\entity\MovieInformation.class
+com\jspiders\springboot\service\MovieService.class
+com\jspiders\springboot\controller\MovieController.class
+com\jspiders\springboot\moviedto\MovieDto.class
+com\jspiders\springboot\SpringbootApplication.class
+com\jspiders\springboot\repository\MovieRepository.class
+com\jspiders\springboot\constants\AppConstants.class
